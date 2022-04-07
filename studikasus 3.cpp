@@ -127,7 +127,7 @@ int main(){
 		}
 	}
 	else {
-		cout << "TOTAL HARGA = Rp. " << total << endl;
+		cout << "TOTAL HARGA = Rp. "<< total << endl;
 		cout << "\n\n";
 	}
 	
